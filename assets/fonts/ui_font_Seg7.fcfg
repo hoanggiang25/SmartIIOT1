@@ -1,0 +1,16 @@
+{
+  "codename": "Seg7",
+  "ttf_path": "/assets/fonts/DSEG7Classic-BoldItalic.ttf",
+  "bin_path": "/assets/fonts\\ui_font_Seg7.bin",
+  "c_path": "/assets/fonts\\ui_font_Seg7.c",
+  "cfg_path": "/assets/fonts\\ui_font_Seg7.fcfg",
+  "size": 25,
+  "bpp": 4,
+  "letters": 0,
+  "ranges": [
+    "0x20-0x7f"
+  ],
+  "symbols": "+-.1234567890: ",
+  "customparams": "--no-compress --no-prefilter",
+  "uploaded": false
+}

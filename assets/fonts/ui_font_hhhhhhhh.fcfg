@@ -1,0 +1,16 @@
+{
+  "codename": "hhhhhhhh",
+  "ttf_path": "/assets/fonts/Montserrat-ExtraBold.ttf",
+  "bin_path": "/assets/fonts\\ui_font_hhhhhhhh.bin",
+  "c_path": "/assets/fonts\\ui_font_hhhhhhhh.c",
+  "cfg_path": "/assets/fonts\\ui_font_hhhhhhhh.fcfg",
+  "size": 18,
+  "bpp": 4,
+  "letters": 0,
+  "ranges": [
+    "0x20-0x7f"
+  ],
+  "symbols": "+,-./0123456789:!\"#$%&‘()*;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~ÀÁẢÃẠĂẰẮẲẴẶÂẦẤẨẪẬĐÈÉẺẼẸÊỀẾỂỄỆÌÍỈĨỊÒÓỎÕỌÔỒỐỔỖỘƠỜỚỞỠỢÙÚỦŨỤƯỪỨỬỮỰỲÝỶỸỴàáảãạăằắẳẵặâầấẩẫậđèéẻẽẹêềếểễệìíỉĩịòóỏõọôồốổỗộơờớởỡợùúủũụưừứửữựỳýỷỹỵ° ",
+  "customparams": "--no-compress --no-prefilter",
+  "uploaded": false
+}

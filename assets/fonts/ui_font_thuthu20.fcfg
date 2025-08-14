@@ -1,0 +1,16 @@
+{
+  "codename": "thuthu20",
+  "ttf_path": "/assets/fonts/Montserrat-Medium.ttf",
+  "bin_path": "/assets/fonts\\ui_font_thuthu20.bin",
+  "c_path": "/assets/fonts\\ui_font_thuthu20.c",
+  "cfg_path": "/assets/fonts\\ui_font_thuthu20.fcfg",
+  "size": 20,
+  "bpp": 4,
+  "letters": 0,
+  "ranges": [
+    "0x20-0x7f"
+  ],
+  "symbols": "+,-./0123456789:!\"#$%&‘()*;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~ÀÁẢÃẠĂẰẮẲẴẶÂẦẤẨẪẬĐÈÉẺẼẸÊỀẾỂỄỆÌÍỈĨỊÒÓỎÕỌÔỒỐỔỖỘƠỜỚỞỠỢÙÚỦŨỤƯỪỨỬỮỰỲÝỶỸỴàáảãạăằắẳẵặâầấẩẫậđèéẻẽẹêềếểễệìíỉĩịòóỏõọôồốổỗộơờớởỡợùúủũụưừứửữựỳýỷỹỵ° ",
+  "customparams": "--no-compress --no-prefilter",
+  "uploaded": false
+}
