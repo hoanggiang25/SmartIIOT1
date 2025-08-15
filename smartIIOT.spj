@@ -845,51 +845,6 @@
                           }
                         ],
                         "InheritedType": 10
-                      },
-                      {
-                        "nid": 1000953,
-                        "flags": 1048576,
-                        "strtype": "_event/action",
-                        "strval": "MODIFY FLAG",
-                        "childs": [
-                          {
-                            "nid": 1000954,
-                            "strtype": "MODIFY FLAG/Name",
-                            "strval": "MODIFY FLAG",
-                            "InheritedType": 10
-                          },
-                          {
-                            "nid": 1000955,
-                            "strtype": "MODIFY FLAG/Call",
-                            "strval": "ModifyFlag( <{Object}>, lv.obj.FLAG.<{Flag}>, \"<{Action}>\")",
-                            "InheritedType": 10
-                          },
-                          {
-                            "nid": 1000956,
-                            "strtype": "MODIFY FLAG/CallC",
-                            "strval": "_ui_flag_modify( <{Object}>, LV_OBJ_FLAG_<{Flag}>, _UI_MODIFY_FLAG_<{Action}>);",
-                            "InheritedType": 10
-                          },
-                          {
-                            "nid": 1000957,
-                            "strtype": "MODIFY FLAG/Object",
-                            "strval": "-",
-                            "InheritedType": 9
-                          },
-                          {
-                            "nid": 1000958,
-                            "strtype": "MODIFY FLAG/Flag",
-                            "strval": "HIDDEN",
-                            "InheritedType": 3
-                          },
-                          {
-                            "nid": 1000959,
-                            "strtype": "MODIFY FLAG/Action",
-                            "strval": "TOGGLE",
-                            "InheritedType": 3
-                          }
-                        ],
-                        "InheritedType": 10
                       }
                     ],
                     "InheritedType": 4
@@ -1805,51 +1760,6 @@
                           },
                           {
                             "nid": 1000750,
-                            "strtype": "MODIFY FLAG/Action",
-                            "strval": "TOGGLE",
-                            "InheritedType": 3
-                          }
-                        ],
-                        "InheritedType": 10
-                      },
-                      {
-                        "nid": 1000946,
-                        "flags": 1048576,
-                        "strtype": "_event/action",
-                        "strval": "MODIFY FLAG",
-                        "childs": [
-                          {
-                            "nid": 1000947,
-                            "strtype": "MODIFY FLAG/Name",
-                            "strval": "MODIFY FLAG",
-                            "InheritedType": 10
-                          },
-                          {
-                            "nid": 1000948,
-                            "strtype": "MODIFY FLAG/Call",
-                            "strval": "ModifyFlag( <{Object}>, lv.obj.FLAG.<{Flag}>, \"<{Action}>\")",
-                            "InheritedType": 10
-                          },
-                          {
-                            "nid": 1000949,
-                            "strtype": "MODIFY FLAG/CallC",
-                            "strval": "_ui_flag_modify( <{Object}>, LV_OBJ_FLAG_<{Flag}>, _UI_MODIFY_FLAG_<{Action}>);",
-                            "InheritedType": 10
-                          },
-                          {
-                            "nid": 1000950,
-                            "strtype": "MODIFY FLAG/Object",
-                            "strval": "-",
-                            "InheritedType": 9
-                          },
-                          {
-                            "nid": 1000951,
-                            "strtype": "MODIFY FLAG/Flag",
-                            "strval": "HIDDEN",
-                            "InheritedType": 3
-                          },
-                          {
-                            "nid": 1000952,
                             "strtype": "MODIFY FLAG/Action",
                             "strval": "TOGGLE",
                             "InheritedType": 3
@@ -7149,7 +7059,8 @@
                 "InheritedType": 11
               }
             ],
-            "saved_objtypeKey": "TABVIEW"
+            "saved_objtypeKey": "TABVIEW",
+            "tree_closed": true
           },
           {
             "guid": "GUID99959280-561249S414225",
@@ -26247,6 +26158,12 @@
                 "InheritedType": 1
               },
               {
+                "nid": 100,
+                "strtype": "OBJECT/Hidden",
+                "strval": "True",
+                "InheritedType": 2
+              },
+              {
                 "nid": 225,
                 "flags": 1048576,
                 "strtype": "OBJECT/Scrolling",
@@ -26357,7 +26274,8 @@
                 "InheritedType": 11
               }
             ],
-            "saved_objtypeKey": "PANEL"
+            "saved_objtypeKey": "PANEL",
+            "tree_closed": true
           }
         ],
         "isPage": true,
@@ -26578,7 +26496,7 @@
     "uiExportFolderPath": "",
     "projectExportFolderPath": "",
     "custom_variable_prefix": "uic",
-    "backup_cnt": 14,
+    "backup_cnt": 15,
     "autosave_cnt": 0,
     "group_color_cnt": 0,
     "lvgl_version": "8.3.11",
